@@ -1,16 +1,26 @@
-### Hi there 👋
+## 🌠 ABOUT ME
 
-<!--
-**cowbear6598/cowbear6598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- An <b>enthusiastic</b> app, game and backend software engineer.
 
-Here are some ideas to get you started:
+- Eager to share knowledge and embrace New Challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently transforming past projects into public side projects
+
+## 💪 SKILLS
+
+- <b>Programming Languages</b>: C#, Typescript, Rust, Dart
+
+- <b>Framework and Engine</b>: Unity, Flutter
+
+- <b>Paradigms</b>: Restful API, GrapgQL, TDD
+
+- <b>Dev Tools</b>: GCP, Docker, Git, NoSql, Nodejs, MongoDB
+
+## ✨ WORKS
+
+<a href="https://github.com/cowbear6598/SheepExample" target="_blank">
+### Triple Tile Game
+</a>
+<img src="https://github.com/cowbear6598/SheepExample/blob/master/Gameplay.gif">
+
+## 🔧 TOOLS
