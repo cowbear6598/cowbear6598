@@ -2,7 +2,7 @@
 
 - An <b>enthusiastic</b> app, game and backend software engineer.
 
-- Eager to share knowledge and embrace New Challenges.
+- Eager to <b>share knowledge</b> and <b>embrace new challenges</b>.
 
 - Currently transforming past projects into public side projects
 
@@ -18,9 +18,12 @@
 
 ## ✨ WORKS
 
-<a href="https://github.com/cowbear6598/SheepExample" target="_blank">
-### Triple Tile Game
-</a>
+### <a href="https://github.com/cowbear6598/SheepExample" target="_blank"> Triple Tile Game </a>
+
 <img src="https://github.com/cowbear6598/SheepExample/blob/master/Gameplay.gif">
 
 ## 🔧 TOOLS
+
+### Unity
+
+### Rust
