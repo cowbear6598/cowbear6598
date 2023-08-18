@@ -8,13 +8,13 @@
 
 ## 💪 SKILLS
 
-- <b>Programming Languages</b>: C#, Typescript, Rust, Dart
+- <b>Programming Languages</b>: C#, Rust, Dart
 
 - <b>Framework and Engine</b>: Unity, Flutter
 
-- <b>Paradigms</b>: Restful API, GrapgQL, TDD
+- <b>Paradigms</b>: Restful API, GrapgQL
 
-- <b>Dev Tools</b>: GCP, Docker, Git, NoSql, Nodejs, MongoDB
+- <b>Dev Tools</b>: GCP, Docker, Git, NoSql, MongoDB
 
 ## ✨ WORKS
 
