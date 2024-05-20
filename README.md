@@ -14,9 +14,9 @@
 
 ## 💪 SKILLS
 
-- <b>Programming Languages</b>: C#, Rust, Dart
+- <b>Programming Languages</b>: C#, Dart
 
-- <b>Framework and Engine</b>: Unity, Flutter
+- <b>Framework and Engine</b>: Unity, Flutter, .Net
 
 - <b>Paradigms</b>: Restful API, GrapgQL
 
