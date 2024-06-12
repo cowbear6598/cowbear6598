@@ -28,12 +28,6 @@
 
 <img src="https://github.com/cowbear6598/SheepExample/blob/master/Gameplay.gif">
 
-### <a href="https://github.com/cowbear6598/web_service_practice" target="_blank"> Rust - Webservice </a>
-
-- 使用 rust + actix_web + mongodb
-
 ## 🔧 TOOLS
 
 ### Unity
-
-### Rust
