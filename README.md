@@ -1,7 +1,5 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+cowbear6598's+Github">
-   </a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+cowbear6598's+Github">
 </h1>
 
 ## 🌠 ABOUT ME
