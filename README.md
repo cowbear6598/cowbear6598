@@ -12,13 +12,13 @@
 
 ## 💪 SKILLS
 
-- <b>Programming Languages</b>: C#, Dart
+- <b>Programming Languages</b>: C#
 
-- <b>Framework and Engine</b>: Unity, Flutter, .Net
+- <b>Framework and Engine</b>: Unity, ASP.Net
 
-- <b>Paradigms</b>: Restful API, GrapgQL
+- <b>Paradigms</b>: Restful API
 
-- <b>Dev Tools</b>: GCP, Docker, Git, NoSql, MongoDB
+- <b>Dev Tools</b>: GCP, Git, NoSql, MongoDB
 
 ## ✨ WORKS
 
