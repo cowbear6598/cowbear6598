@@ -12,13 +12,13 @@
 
 ## 💪 SKILLS
 
-- <b>Programming Languages</b>: C#
+- <b>Programming Languages</b>: C#, Typescript, Javascript
 
-- <b>Framework and Engine</b>: Unity, ASP.Net
+- <b>Framework and Engine</b>: Unity, ASP.Net, Vue
 
 - <b>Paradigms</b>: Restful API
 
-- <b>Dev Tools</b>: GCP, Git, NoSql, MongoDB
+- <b>Dev Tools</b>: GCP, Git, MongoDB, PostgreSql
 
 ## ✨ WORKS
 
