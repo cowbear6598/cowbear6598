@@ -2,6 +2,12 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+cowbear6598's+Github">
 </h1>
 
+<p align="center">
+  <a href="https://buymeacoffee.com/cowbear6598" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+  </a>
+</p>
+
 ## 🌠 ABOUT ME
 
 - An <b>enthusiastic</b> app, game and backend software engineer.
@@ -22,12 +28,12 @@
 
 ## ✨ WORKS
 
+### <a href="https://github.com/cowbear6598/claude-code-canvas" target="_blank"> Claude Code Canvas </a>
+
+<video src="https://github.com/user-attachments/assets/58a82eb0-e629-46cc-a944-5ba891692b52" controls width="100%"></video>
+
 ### <a href="https://github.com/cowbear6598/SheepExample" target="_blank"> Triple Tile Game </a>
 
 <img src="https://github.com/cowbear6598/SheepExample/blob/master/Gameplay.gif">
 
-## 🔧 TOOLS
-
-### <a href="https://github.com/cowbear6598/SceneTransition" target="_blank"> Scene Transition </a>
-
-<img src="https://github.com/cowbear6598/SceneTransition/blob/main/Documents/Example.gif">
+---
