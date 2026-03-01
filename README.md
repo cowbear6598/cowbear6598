@@ -3,13 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
-  <br><br>
   <a href="https://buymeacoffee.com/cowbear6598" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30">
   </a>
@@ -17,21 +10,36 @@
 
 ## 🌠 ABOUT ME
 
-- An <b>enthusiastic</b> app, game and backend software engineer.
+- A passionate <b>full-stack engineer</b> and <b>AI tooling developer</b>.
 
-- Eager to <b>share knowledge</b> and <b>embrace new challenges</b>.
+- Experienced in <b>game development</b>, <b>web applications</b>, and <b>AI agent workflows</b>.
 
-- Currently transforming past projects into public side projects
+- Currently building open-source tools for the <b>Claude Code</b> ecosystem.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
+</p>
 
 ## 💪 SKILLS
 
-- <b>Programming Languages</b>: C#, Typescript, Javascript
+- <b>Programming Languages</b>: C#, TypeScript, Go, Python
 
-- <b>Framework and Engine</b>: Unity, ASP.Net, Vue
+- <b>Frontend</b>: Vue 3, Vite
 
-- <b>Paradigms</b>: Restful API
+- <b>Backend</b>: ASP.NET, Go
 
-- <b>Dev Tools</b>: GCP, Git, MongoDB, PostgreSql
+- <b>Game Engine</b>: Unity
+
+- <b>AI / Agent</b>: Claude Code, Claude Agent SDK
+
+- <b>DevOps & Tools</b>: Git, GCP, Docker, MongoDB, PostgreSQL
 
 ## ✨ WORKS
 
