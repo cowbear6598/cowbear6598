@@ -2,12 +2,6 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+cowbear6598's+Github">
 </h1>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/cowbear6598" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30">
-  </a>
-</p>
-
 ## 🌠 ABOUT ME
 
 - A passionate <b>full-stack engineer</b> and <b>AI tooling developer</b>.
@@ -25,6 +19,10 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
+  <br><br>
+  <a href="https://buymeacoffee.com/cowbear6598" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30">
+  </a>
 </p>
 
 ## 💪 SKILLS
