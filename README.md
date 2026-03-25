@@ -28,7 +28,9 @@
 
 ### <a href="https://github.com/cowbear6598/claude-code-canvas" target="_blank"> Claude Code Canvas </a>
 
-<video src="https://github.com/user-attachments/assets/58a82eb0-e629-46cc-a944-5ba891692b52" controls width="600"></video>
+<div style="max-width: 480px;">
+  <video src="https://github.com/user-attachments/assets/58a82eb0-e629-46cc-a944-5ba891692b52" controls width="480"></video>
+</div>
 
 ---
 
