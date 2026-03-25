@@ -24,13 +24,6 @@
 
 - **DevOps & Tools**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## 📊 GITHUB STATS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cowbear6598&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cowbear6598&theme=tokyonight&hide_border=true" height="180">
-</div>
-
 ## ✨ WORKS
 
 ### <a href="https://github.com/cowbear6598/claude-code-canvas" target="_blank"> Claude Code Canvas </a>
