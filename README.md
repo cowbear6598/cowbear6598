@@ -2,8 +2,6 @@
    <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=45&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+cowbear6598's+Github+%F0%9F%91%8B">
 </h1>
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/cowbear6598/svg)](https://tokscale.ai/u/cowbear6598)
-
 ## ✏️ ABOUT ME
 
 - A passionate <b>full-stack engineer</b> and <b>AI tooling developer</b>.
